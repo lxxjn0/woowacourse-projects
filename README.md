@@ -5,7 +5,7 @@
 </p>
 
 
->  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 저장소
+>  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
 
 <br/>
 
