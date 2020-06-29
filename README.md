@@ -166,7 +166,6 @@
 ### Github Repository
 
 - [supp](https://github.com/woowa-supp/supp)
-
 - [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
 
 <br/>
@@ -179,7 +178,7 @@
 
 ### Github Repository
 
-- [Javable](https://github.com/woowacourse/javable)
+- [javable](https://github.com/woowacourse/javable)
 
 ### 활동 내용
 
