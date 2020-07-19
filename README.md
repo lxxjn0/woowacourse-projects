@@ -186,4 +186,4 @@
 - [포스팅 - 하나의 테스트 케이스는 단위 기능 중 하나의 시나리오만 테스트하라](https://woowacourse.github.io/javable/2020-04-24/one-test-must-check-one-scenario)
 - [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
 - [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
-
+- [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
