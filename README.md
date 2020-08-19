@@ -187,3 +187,4 @@
 - [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
 - [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
 - [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
+- [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
