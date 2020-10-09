@@ -99,6 +99,28 @@
 
 <br/>
 
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 발표 주제 : 빌드와 배포
+
+- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
+
+<br/>
+
+## 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
+
+### 서비스
+
+- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
+- [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
+
+### Github Repository
+
+- [supp](https://github.com/woowa-supp/supp)
+- [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
+
+<br/>
+
 ## 🐥 Level 3 : 팀 프로젝트
 
 ### 기간
@@ -115,6 +137,10 @@
 - comming soon...
 
 <br/>
+
+## 🐳 직고래 : 조직 내에서 중고 거래를!
+
+
 
 ## 🐓 Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
 
@@ -136,14 +162,6 @@
 
 <br/>
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
-
-### 발표 주제 : 빌드와 배포
-
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
-
-<br/>
-
 ## 🖋 Writing : 글쓰기 코스
 
 ### 진행 미션
@@ -152,22 +170,8 @@
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
-|   3   |    내가 꿈꾸는 프로그래머로서의 삶     |                       comming soon...                        |                       comming soon...                        |
+|   3   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-2/level3](https://github.com/lxxjn0/woowa-writing-2/tree/level3) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/156) |
 |   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
-
-<br/>
-
-## 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
-
-### 서비스
-
-- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
-- [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
-
-### Github Repository
-
-- [supp](https://github.com/woowa-supp/supp)
-- [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
 
 <br/>
 
@@ -189,3 +193,6 @@
 - [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
 - [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
 - [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
+- [포스팅 - 사용성을 고려해 객체를 설계하자](https://woowacourse.github.io/javable/2020-08-18/plan-reusable-object)
+- [포스팅 - Java의 문자열을 파해치자!](https://woowacourse.github.io/javable/2020-09-07/dive-into-java-string)
+
