@@ -107,7 +107,7 @@
 
 <br/>
 
-## 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
+## 👋🏻 SUPP 프로젝트 : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
 
 ### 서비스
 
@@ -134,11 +134,11 @@
 
 ### 진행 미션
 
-- comming soon...
+- 직고래 프로젝트
 
 <br/>
 
-## 🐳 직고래 : 조직 내에서 중고 거래를!
+## 🐳 직고래 프로젝트 : 조직 내에서 중고 거래를!
 
 > 참고. 서비스 명이 샐러리(seller-lee)에서 직고래(jikgorae)로 변경되었습니다. repository의 이름에서 혼용되고 있는 점 양해 부탁드립니다 :)
 
@@ -189,7 +189,6 @@
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
 |   3   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-2/level3](https://github.com/lxxjn0/woowa-writing-2/tree/level3/level-3) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/156) |
-|   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
 
 <br/>
 
@@ -197,7 +196,7 @@
 
 ### 서비스
 
-- [Javable](https://woowacourse.github.io/javable/)
+- [Javable 블로그](https://woowacourse.github.io/javable/)
 
 ### Github Repository
 
