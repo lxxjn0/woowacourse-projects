@@ -195,4 +195,6 @@
 - [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
 - [포스팅 - 사용성을 고려해 객체를 설계하자](https://woowacourse.github.io/javable/2020-08-18/plan-reusable-object)
 - [포스팅 - Java의 문자열을 파해치자!](https://woowacourse.github.io/javable/2020-09-07/dive-into-java-string)
+- [포스팅 - 테스트 더블에 대해 알아보자(진행중)](#)
+- [포스팅 - Mockito와 BDDMockito의 차이(진행중)](#)
 
