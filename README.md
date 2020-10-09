@@ -145,7 +145,7 @@
 ### 서비스
 
 - [안드로이드 어플 링크](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
-- [직고래 데모 사이트]([https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98](https://sites.google.com/woowahan.com/wooteco-demo/직고래))
+- [직고래 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
 - [직고래 기술 블로그](https://seller-lee.github.io/)
 
 ### Github Repository
