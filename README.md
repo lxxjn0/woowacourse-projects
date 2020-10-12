@@ -155,7 +155,7 @@
 
 ### 관련 영상
 
-- [(발표)1차 데모 - 서비스 및 팀 소개](https://www.youtube.com/watch?v=JPmA2tIt8ME)
+- [1차 데모 - 서비스 및 팀 소개(발표자)](https://www.youtube.com/watch?v=JPmA2tIt8ME)
 - [2차 데모 - 빌드, 배포 그리고 자동화](https://www.youtube.com/watch?v=67TDNiSYRTM)
 - [최종 데모 - 개발문화와 프로젝트를 통해 느낀 점](https://www.youtube.com/watch?v=shq5CLRWB_I)
 - [프로젝트 소개 - 직고래](https://www.youtube.com/watch?v=ECl14dt7sQU)
