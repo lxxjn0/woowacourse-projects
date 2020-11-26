@@ -216,6 +216,8 @@
 - [포스팅 - else 예약어를 쓰지 않는다](https://woowacourse.github.io/javable/2020-07-29/dont-use-else)
 - [포스팅 - 사용성을 고려해 객체를 설계하자](https://woowacourse.github.io/javable/2020-08-18/plan-reusable-object)
 - [포스팅 - Java의 문자열을 파해치자!](https://woowacourse.github.io/javable/2020-09-07/dive-into-java-string)
-- [포스팅 - 테스트 더블에 대해 알아보자(진행중)](#)
-- [포스팅 - Mockito와 BDDMockito의 차이(진행중)](#)
+- [포스팅 - 테스트 더블에 대해 알아보자](#)
+- [포스팅 - Mockito와 BDDMockito의 차이](#)
+- [포스팅 - 코드 커버리지란](#)
+- [기능 구현 - 새로운 블로그 테마 적용](#)
 
